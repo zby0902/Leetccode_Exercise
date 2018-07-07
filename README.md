@@ -1,2 +1,2 @@
-# Leetccode_Exercise
+# Leetcode_Exercise
 The repository to store my practice code of leetcode challenges
